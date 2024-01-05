@@ -1,0 +1,7 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+.vscode
+tas_day_GISS-E2-1-G_ssp370-lowNTCF_r3i1p3f1_gn_20150101-21001231.nc
+us_counties_2021.parquet
+settings.json
